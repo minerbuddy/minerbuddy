@@ -28,79 +28,6 @@ We believe good preparation shouldn't depend on scattered PDFs, outdated guides,
 
 <br/>
 
-## 🚧 Currently In Progress
-
-<div align="center">
-
-| Area | Status |
-|---|---|
-| 🌐 Core Web Platform | ✅ Live |
-| 🧠 Smart Content & Test Engine | 🔨 Building |
-| 📱 Mobile Experience | 🔨 Building |
-| 📊 Personalized Analytics | 🔨 Building |
-| 🔁 Continuous Improvements | 🟢 Ongoing |
-
-</div>
-
-We're early, we're building fast, and this profile evolves as the product does.
-
-<br/>
-
-## 🌐 Website
-
-<div align="center">
-
-**[minersbuddy.vercel.app](https://minersbuddy.vercel.app/)** — ✅ Live
-
-</div>
-
-The core web platform where students access content, tests, and progress tracking. Actively maintained with new features shipped continuously.
-
-<br/>
-
-## 📱 Mobile App
-
-<div align="center">
-
-**Android & iOS App** — 🔨 In Development
-
-</div>
-
-Bringing the full MinersBuddy experience to mobile — study on the go, offline access, and push reminders for upcoming exams.
-
-<br/>
-
-## ✨ Features
-
-<table align="center">
-<tr>
-<td valign="top">
-
-**🔨 Ongoing**
-- Metal Mines (MMR 1961) content
-- Mock Tests & PYQs
-- PDF Library (Handbooks, Guides, Formula Sheets)
-- DGMS Announcements & circulars
-- Personalized progress analytics
-- Mobile app build
-
-</td>
-<td valign="top">
-
-**🕐 Upcoming**
-- Coal Mines (CMR 2017) content
-- Downloadable exam syllabus (DGMS & JUT Diploma)
-- Daily regulation tips
-- Exam countdown tracker
-- Dark mode
-- Notification system
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🛠️ How We Work
 
 <div align="center">
@@ -110,16 +37,6 @@ Bringing the full MinersBuddy experience to mobile — study on the go, offline 
 <br/>
 
 Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
-
-<br/>
-
-## 📈 Activity
-
-<div align="center">
-<!-- Replace YOUR_USERNAME with this account's actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B1420&title_color=F5C518&icon_color=F5C518&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B1420&ring=F5C518&fire=F5C518&currStreakLabel=F5C518" height="165"/>
-</div>
 
 <br/>
 
