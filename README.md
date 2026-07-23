@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/ORG-MinersBuddy-0B1420?style=for-the-badge&logo=github&logoColor=F5C518"/>
 <img src="https://img.shields.io/badge/STATUS-In%20Progress-F5C518?style=for-the-badge&logoColor=0B1420&color=F5C518&labelColor=0B1420"/>
-<img src="https://img.shields.io/badge/FOCUS-Product%20%26%20Platform-0B1420?style=for-the-badge&logoColor=F5C518"/>
 
 </div>
 
