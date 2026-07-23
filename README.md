@@ -28,18 +28,6 @@ We believe good preparation shouldn't depend on scattered PDFs, outdated guides,
 
 <br/>
 
-## 🛠️ How We Work
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,postgres,docker,git,github,vercel,figma&theme=dark" />
-</div>
-
-<br/>
-
-Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
-
-<br/>
-
 ## 🤝 Connect
 
 <div align="center">
