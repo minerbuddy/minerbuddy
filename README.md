@@ -54,16 +54,6 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 
 <br/>
 
-## 📈 Activity
-
-<div align="center">
-<!-- Replace YOUR_USERNAME with this account's actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B1420&title_color=F5C518&icon_color=F5C518&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B1420&ring=F5C518&fire=F5C518&currStreakLabel=F5C518" height="165"/>
-</div>
-
-<br/>
-
 ## 🤝 Connect
 
 <div align="center">
