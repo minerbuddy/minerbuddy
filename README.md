@@ -26,22 +26,6 @@ This account is where that platform gets built, piece by piece.
 
 We believe good preparation shouldn't depend on scattered PDFs, outdated guides, or guesswork. MinersBuddy exists to turn that chaos into one clear, guided path — and this team is the engine that makes it real.
 
-<br/>
-
-## 🚧 Currently In Progress
-
-<div align="center">
-
-| Area | Status |
-|---|---|
-| 🌐 Core Web Platform | ✅ Live |
-| 🧠 Smart Content & Test Engine | 🔨 Building |
-| 📱 Mobile Experience | 🔨 Building |
-| 📊 Personalized Analytics | 🔨 Building |
-| 🔁 Continuous Improvements | 🟢 Ongoing |
-
-</div>
-
 We're early, we're building fast, and this profile evolves as the product does.
 
 <br/>
@@ -50,54 +34,11 @@ We're early, we're building fast, and this profile evolves as the product does.
 
 <div align="center">
 
-**[minersbuddy.vercel.app](https://minersbuddy.vercel.app/)** — ✅ Live
+**[minersbuddy](https://minersbuddy.vercel.app/)** — ✅ Live
 
 </div>
 
 The core web platform where students access content, tests, and progress tracking. Actively maintained with new features shipped continuously.
-
-<br/>
-
-## 📱 Mobile App
-
-<div align="center">
-
-**Android & iOS App** — 🔨 In Development
-
-</div>
-
-Bringing the full MinersBuddy experience to mobile — study on the go, offline access, and push reminders for upcoming exams.
-
-<br/>
-
-## ✨ Features
-
-<table align="center">
-<tr>
-<td valign="top">
-
-**🔨 Ongoing**
-- Metal Mines (MMR 1961) content
-- Mock Tests & PYQs
-- PDF Library (Handbooks, Guides, Formula Sheets)
-- DGMS Announcements & circulars
-- Personalized progress analytics
-- Mobile app build
-
-</td>
-<td valign="top">
-
-**🕐 Upcoming**
-- Coal Mines (CMR 2017) content
-- Downloadable exam syllabus (DGMS & JUT Diploma)
-- Daily regulation tips
-- Exam countdown tracker
-- Dark mode
-- Notification system
-
-</td>
-</tr>
-</table>
 
 <br/>
 
