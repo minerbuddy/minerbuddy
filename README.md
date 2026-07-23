@@ -30,18 +30,6 @@ We're early, we're building fast, and this profile evolves as the product does.
 
 <br/>
 
-## 🌐 Website
-
-<div align="center">
-
-**[minersbuddy](https://minersbuddy.vercel.app/)** — ✅ Live
-
-</div>
-
-The core web platform where students access content, tests, and progress tracking. Actively maintained with new features shipped continuously.
-
-<br/>
-
 ## 🛠️ How We Work
 
 <div align="center">
