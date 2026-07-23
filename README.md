@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=MB%20Tech%20Dev&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20the%20future%20of%20mining%20education&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1420&height=200&section=header&text=MB%20Tech%20Dev&fontSize=55&fontColor=F5C518&animation=fadeIn&fontAlignY=38&desc=Engineering%20the%20future%20of%20mining%20education&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ORG-MinersBuddy-1e3c72?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-In%20Progress-f5a623?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Product%20%26%20Platform-2a5298?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ORG-MinersBuddy-0B1420?style=for-the-badge&logo=github&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/STATUS-In%20Progress-F5C518?style=for-the-badge&logoColor=0B1420&color=F5C518&labelColor=0B1420"/>
+<img src="https://img.shields.io/badge/FOCUS-Product%20%26%20Platform-0B1420?style=for-the-badge&logoColor=F5C518"/>
 
 </div>
 
@@ -62,8 +62,8 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 
 <div align="center">
 <!-- Replace YOUR_USERNAME with this account's actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B1420&title_color=F5C518&icon_color=F5C518&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B1420&ring=F5C518&fire=F5C518&currStreakLabel=F5C518" height="165"/>
 </div>
 
 <br/>
@@ -72,10 +72,10 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-1e3c72?style=for-the-badge&logo=vercel&logoColor=white)](https://minersbuddy.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-info.minersbuddy-2a5298?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.minersbuddy@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@minersbuddy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/minersbuddy)
-[![X](https://img.shields.io/badge/X-@minersbuddy-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minersbuddy)
+[![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://minersbuddy.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:info.minersbuddy@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@minersbuddy-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518)](https://www.instagram.com/minersbuddy)
+[![X](https://img.shields.io/badge/X-@minersbuddy-0B1420?style=for-the-badge&logo=x&logoColor=F5C518)](https://x.com/minersbuddy)
 
 </div>
 
@@ -85,4 +85,4 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 <i>Building, one commit at a time — for every miner's success.</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1420&height=100&section=footer" width="100%"/>
