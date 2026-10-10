@@ -14,7 +14,7 @@
 
 ## ⛏️ Who We Are
 
-We're the technology team behind **[MinersBuddy](https://minersbuddy.vercel.app/)** — building an AI-powered learning platform that gives every mining student a smarter, more structured way to prepare for their DGMS certifications.
+We're the technology team behind **[MinersBuddy](https://minersbuddy.in/)** — building an AI-powered learning platform that gives every mining student a smarter, more structured way to prepare for their DGMS certifications.
 
 This account is where that platform gets built, piece by piece.
 
@@ -32,7 +32,7 @@ We believe good preparation shouldn't depend on scattered PDFs, outdated guides,
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://minersbuddy.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-minersbuddy.in-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://minersbuddy.in/)
 [![Email](https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:info.minersbuddy@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@minersbuddy-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518)](https://www.instagram.com/minersbuddy)
 [![X](https://img.shields.io/badge/X-@minersbuddy-0B1420?style=for-the-badge&logo=x&logoColor=F5C518)](https://x.com/minersbuddy)
